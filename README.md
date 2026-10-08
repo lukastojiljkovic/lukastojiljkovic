@@ -14,7 +14,7 @@ Open to applied AI, full-stack and backend roles, in Belgrade or remote.
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [Nexus](https://github.com/lukastojiljkovic/Nexus) | An offline-first desktop workspace with an encrypted local store and optional end-to-end encrypted sync. | TypeScript, Electron, Supabase |
+| [Nexus](https://github.com/lukastojiljkovic/Nexus) | An offline desktop workspace with an encrypted local store. No account, no server. | TypeScript, Electron, SQLCipher |
 | [Stem Agent](https://github.com/lukastojiljkovic/stem-agent) | An LLM agent that specializes itself by evolving pipelines of typed tools, with beam search and a MAP-Elites archive. | Python, LM Studio |
 | [Serbian speech recognition](https://github.com/lukastojiljkovic/serbian-realtime-speech-recognition) | Real-time recognition for Serbian: a hybrid voice-activity detector feeding a published Wav2Vec2 XLS-R checkpoint, with live Cyrillic output. Group project. | PyTorch, Hugging Face |
 | [PermaDel](https://github.com/lukastojiljkovic/PermaDel) | A secure file shredder for Windows with File Explorer integration and an optional Windows Hello check. | C#, WinUI 3, C++ |
